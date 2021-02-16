@@ -1,8 +1,5 @@
 # Tables
 
-
-
-
 ## Table :: inspector
 > - inspector_id
 > - employee_id
